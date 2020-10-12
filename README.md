@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Screenshot from 2020-10-12 15-28-46](https://user-images.githubusercontent.com/49642656/95717717-f41ff300-0c9f-11eb-9003-83631c5803f1.png)
+
+### npm i @tinymce/tinymce-react
+
 ## Available Scripts
 
 In the project directory, you can run:
